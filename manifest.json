@@ -1,7 +1,7 @@
 {
   "name": "Femme Days",
   "short_name": "Femme Days",
-  "start_url": "./femme-days.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#FFF9FB",
   "theme_color": "#F2879E",
